@@ -2,7 +2,7 @@
 
 ## 1. Cơ chế hoạt động của internet
 
-- Internet là mội mạng lưới cáp vật lý toàn cầu, bao gồm cáp đồng (ADSl) và cáp quang (FTTH), dùng để kết nối các thiết bị điện tử (máy tính, điện thoại...) có trang bị kết nối internet thông qua kết nối có dây hoặc không dây (wifi, 4G...). Ngay cả các kết nối không dây như Wi-Fi và 3G / 4G cũng dựa vào các loại cáp vật lý này để truy cập Internet.
+- Internet là một mạng lưới cáp vật lý toàn cầu, bao gồm cáp đồng (ADSl) và cáp quang (FTTH), dùng để kết nối các thiết bị điện tử (máy tính, điện thoại...) có trang bị kết nối internet thông qua kết nối có dây hoặc không dây (wifi, 4G...). Ngay cả các kết nối không dây như Wi-Fi và 3G / 4G cũng dựa vào các loại cáp vật lý này để truy cập Internet.
 
 - Thông qua việc truy cập internet này các thiết bị điện tử có thể chia sẻ dữ liệu, hình ảnh, tập tin với nhau.
 
